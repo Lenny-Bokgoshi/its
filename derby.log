@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Aug 18 20:30:54 SAST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0191-66c1-ac68-000003922bc0 
+on database directory memory:/Users/lenny/IdeaProjects/non-work/lennybokgoshi/master with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2aae9190 
+Loaded from file:/Users/lenny/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.8+7
+user.dir=/Users/lenny/IdeaProjects/non-work/lennybokgoshi
+os.name=Mac OS X
+os.arch=aarch64
+os.version=14.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

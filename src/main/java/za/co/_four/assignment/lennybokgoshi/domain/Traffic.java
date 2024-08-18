@@ -9,7 +9,7 @@ import java.io.Serializable;
 import java.math.BigDecimal;
 
 @Entity
-public class Traffic implements Serializable {
+public class Traffic {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;

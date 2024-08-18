@@ -8,7 +8,7 @@ import jakarta.persistence.Id;
 import java.io.Serializable;
 
 @Entity
-public class Planet implements Serializable {
+public class Planet {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
