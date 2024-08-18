@@ -20,6 +20,9 @@ public class Traffic implements Serializable {
 
     private BigDecimal delay;
 
+    public Traffic() {
+    }
+
     public Long getId() {
         return id;
     }

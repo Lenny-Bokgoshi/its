@@ -20,6 +20,9 @@ public class Route implements Serializable {
 
     private BigDecimal distance;
 
+    public Route() {
+    }
+
     public Long getId() {
         return id;
     }

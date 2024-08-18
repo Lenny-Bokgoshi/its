@@ -17,6 +17,9 @@ public class Planet implements Serializable {
 
     private String name;
 
+    public Planet() {
+    }
+
     public Long getId() {
         return id;
     }
