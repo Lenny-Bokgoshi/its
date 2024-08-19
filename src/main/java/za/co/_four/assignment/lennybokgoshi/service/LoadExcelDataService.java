@@ -38,6 +38,7 @@ public class LoadExcelDataService {
         this.trafficRepository = trafficRepository;
     }
 
+    // TODO: Fix Derby Database configuration and access imported data
 //    @PostConstruct
     public void loadData() throws IOException {
         // Correctly reference the Excel file
