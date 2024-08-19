@@ -8,7 +8,9 @@ Assumptions:
 3. Node can only be passed once.
 4. Algorithm to use to calculate shortest will be similar to the Travelling Salesman Problem(TSP).
 
-
+To do differently:
+1. Design the domain and describe entity relationships
+2. Apply Test Driven Development to implement app
 
 
 Note: Development was done using IntelliJ Idea Ultimate.
